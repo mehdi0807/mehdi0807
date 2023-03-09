@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m a Data Science and AI student.<br>👨🏽‍💻 I am currently working as Computer Vision Research Intern at CDTA research center.<br>🤝 I worked as a data science intern at AXA Algérie where I worked on a Machine Learning solution to predict the existence, volume, and value of claims on current contracts.<br>🌱 I’m currently learning Machine Learning, NLP, computer vision, and model visualization.<br>👯 I’m looking to collaborate on AI projects.<br>📫 Reach me at: mehdi.amor_ouahmed@g.enp.edu.dz
+👋 Hi, I’m a Data Science and AI student.<br>👨🏽‍💻 I am currently working as Computer Vision Research Intern at CDTA research center.<br>🤝 I worked as a data science intern at AXA Algérie where I worked on a Machine Learning solution to predict the existence, volume, and value of claims on current contracts.<br>🌱 I’m currently learning Machine Learning, Time Series Forecasting, NLP and Computer Vision.<br>👯 I’m looking to collaborate on AI projects.<br>📫 Reach me at: mehdi.amor_ouahmed@g.enp.edu.dz
 
 
 ## 🌐 Socials:
